@@ -16,4 +16,3 @@ def check_url(url):
             "time": str(datetime.now())
         }
     
-    
